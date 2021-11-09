@@ -1,0 +1,19 @@
+w3-third p{
+    margin : 25px;
+    align-items:center;
+}
+
+w3-wide{
+    font-size: 70px;
+}
+
+footer{
+    width:100%;
+    display:block;
+    border:solid;
+}
+
+ul{
+    list-style-type:none;
+    font-size: 20px;
+}
